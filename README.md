@@ -1,4 +1,4 @@
-MEMZ In Python Remake. 
+# An Unoficial Remake Of MEMZ In Python.
 # NOTE:
 This Is Only For Educational Purposes Only. Do NOT Use This Maliciously.
 # Caution
